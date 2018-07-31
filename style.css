@@ -1,0 +1,29 @@
+body{
+  background-color: #55efc4
+
+}
+img {
+  position: absolute;
+  border: 5px dashed #fcc4a1;
+  left:0px;
+
+}
+h1{
+
+
+}
+h2{
+  position: absolute;
+  left: 200px;
+  top: 60px;
+}
+h4{
+  position: absolute;
+  left: 500px;
+  top: 100px;
+}
+h3{
+  position: absolute;
+  left: 600px;
+  top: 70px;
+}
